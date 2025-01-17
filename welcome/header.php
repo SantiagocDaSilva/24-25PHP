@@ -11,9 +11,15 @@
     <div class="row">
         <div class="col">
             <div class="mt-4 p-5 bg-primary text-white rounded">
-                <h1>Welcome to the Website</h1>
-                <p>The first form we made!</p>
+                <h1>Welcome to PHP Study</h1>
+                <p>Links are below</p>
             </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <ol>
+            </ol>
         </div>
     </div>
 
